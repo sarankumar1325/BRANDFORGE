@@ -1,4 +1,4 @@
-# BrandForge
+# BrandForge🛠️🚀
 ![WhatsApp Image 2024-12-26 at 09 44 32_86503e93](https://github.com/user-attachments/assets/74f8dc52-efe3-474d-8fe0-8c90686b2ffd)
 
 **BrandForge** is an AI-powered personal branding and career coaching platform designed to help developers and students stand out in their professional communities and networks. This application provides actionable insights, strategies, and a roadmap to empower users to achieve their personal branding and career goals.
