@@ -60,7 +60,7 @@ brandforge/
 
 ## Usage
 
-1. Launch the application using Streamlit.
+1. Launch the application using Streamlit Command.
 2. Enter your questions about personal branding or career growth in the input box.
 3. Receive actionable suggestions powered by AI.
 
